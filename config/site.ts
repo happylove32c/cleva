@@ -5,13 +5,23 @@ export const siteConfig = {
   description: " A Global UI/UX Design Agency.",
   navItems: [
     {
+      label: "Projects",
+      href: "/services",
+    },
+    {
       label: "Services",
       href: "/services",
     },
     {
+      label: "Blog",
+      href: "/blog",
+    },
+
+    {
       label: "About",
       href: "/about",
     },
+
     {
       label: "Contact",
       href: "/contact",
